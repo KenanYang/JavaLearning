@@ -53,8 +53,6 @@ public class BufferedStreamDemo {
 				e.printStackTrace();
 			} 
 		}
-		
-
 	}
 
 }
