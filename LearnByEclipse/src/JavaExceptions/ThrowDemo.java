@@ -1,4 +1,4 @@
-package day8;
+package JavaExceptions;
 /**
  * 演示手动抛出异常
  * @author kenanyang

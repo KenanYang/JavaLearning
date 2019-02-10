@@ -1,4 +1,4 @@
-package day8;
+package JavaExceptions;
 
 public class RideHorseException extends Exception {
 	public RideHorseException(int health) {

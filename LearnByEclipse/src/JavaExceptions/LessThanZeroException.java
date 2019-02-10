@@ -1,4 +1,4 @@
-package day8;
+package JavaExceptions;
 /**
  * 自定义异常 - 小于零时触发
  * @author kenanyang

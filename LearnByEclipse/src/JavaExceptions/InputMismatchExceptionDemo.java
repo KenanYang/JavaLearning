@@ -1,4 +1,4 @@
-package day8;
+package JavaExceptions;
 
 import java.util.Scanner;
 

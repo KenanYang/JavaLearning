@@ -1,4 +1,4 @@
-package day8;
+package JavaExceptions;
 /**
  * 免检异常
  * @author kenanyang
