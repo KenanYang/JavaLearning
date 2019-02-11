@@ -23,7 +23,7 @@ public class FileStreamDemo {
 		final String FilePath1 = "src/JavaIOLearning/FileDemo1.java";
 //		OutputStream outStream = new FileOutputStream(FilePath1, true);//有true是追加写入
 		OutputStream outStream = new FileOutputStream(FilePath1, false); //false会覆盖写
-		String content = "package JavaIOLearning;";
+		String content = "package JavaIOLearning;\n";
 		content +="public class FileDemo1{\n";
 		content +="public static void main(String[] args) {\n";
 		content += "System.out.println(\"Hello World!\"); \n}\n}";
